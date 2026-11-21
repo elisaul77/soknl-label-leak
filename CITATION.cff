@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this report, please cite it as below."
+title: "SOKNL reads the answer before it answers: a measured label leak in Self-Optimising K-Nearest Leaves (MOA / CapyMOA)"
+type: software
+authors:
+  - family-names: "Florez Perez"
+    given-names: "Eli Saul"
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/elisaul77/soknl-label-leak"
