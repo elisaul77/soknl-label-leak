@@ -1,5 +1,7 @@
 # Follow-up: the same test on every CapyMOA learner
 
+Reported to the maintainers as [CapyMOA #492](https://github.com/adaptive-machine-learning/CapyMOA/issues/492) on 2026-11-21.
+
 After SOKNL, the label test was run on all 37 learners exported by `capymoa.regressor` and `capymoa.classifier` (CapyMOA 0.11.0, default parameters, synthetic data). Protocols were registered before the code; both studies passed an independent audit (304 and 91 checks).
 
 ## The test
