@@ -1,0 +1,14 @@
+{
+ "reg|SOKNL": {
+  "sondas": 10,
+  "prediccion_propia_cambia": 0
+ },
+ "clf|SAMkNN": {
+  "sondas": 10,
+  "prediccion_propia_cambia": 0
+ },
+ "reg|KNNRegressor": {
+  "sondas": 10,
+  "prediccion_propia_cambia": 0
+ }
+}

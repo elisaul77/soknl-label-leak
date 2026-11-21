@@ -1,0 +1,1 @@
+{"estado": "no construye", "motivo": "TypeError: Finetune.__init__() missing 1 required positional argument: 'model'"}

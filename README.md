@@ -116,6 +116,18 @@ The full 29-stream study is in [`study/`](study/); see [`study/README.md`](study
 
 Remove the evaluator update from `getVotesForInstance` and rely on the one already in `trainOnInstanceImpl`, choosing *k* from errors accumulated up to the previous instance. Reported to the maintainers as [CapyMOA #491](https://github.com/adaptive-machine-learning/CapyMOA/issues/491) on 2026-11-21 (text in [`ISSUE_DRAFT.md`](ISSUE_DRAFT.md)).
 
+## Follow-up: all 37 CapyMOA learners
+
+The same test was then run on every regressor and classifier in CapyMOA 0.11.0.
+
+| Result | Learners |
+|---|---|
+| Clean: not one prediction changes | 34 |
+| Read the label inside `predict` | 2 — SOKNL and **SAMkNN** |
+| Not tested | 1 (Finetune) |
+
+SAMkNN is a different case from SOKNL: it does not use the label for the prediction it is making, but records it during `predict` to choose between its memories later. Ordinary evaluation is unaffected; predicting unlabelled instances costs up to 1.5 accuracy points in our tests, and a placeholder label costs 2 to 10. Details, the full list and the numbers: [`sweep/README.md`](sweep/README.md).
+
 ## Method
 
 | Step | What was done |
@@ -143,6 +155,7 @@ Remove the evaluator update from `getVotesForInstance` and rely on the one alrea
 ├── reproduce/              dataset-free minimal reproduction
 ├── results/per_stream.csv  one row per stream
 ├── assets/                 figure
+├── sweep/                  follow-up: the test on all 37 learners, and SAMkNN
 └── study/                  protocol, frozen config, study code, audit, raw evaluation
 ```
 

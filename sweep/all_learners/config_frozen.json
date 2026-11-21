@@ -1,0 +1,15 @@
+{
+ "semilla": 20261121,
+ "n": 3000,
+ "d": 6,
+ "tope_s": 600,
+ "brazos": [
+  "U",
+  "U2",
+  "L",
+  "W"
+ ],
+ "hashes": {
+  "barrido1.py": "7aaf2f416affecfe5e6a07e8011d405cdee45fed018a526f03be5450b2f564c9"
+ }
+}
