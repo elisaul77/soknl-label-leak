@@ -1,7 +1,7 @@
-# Draft issue for the maintainers — NOT SENT
+# Report to the maintainers — SENT on 2026-11-21
 
-Target: CapyMOA (`adaptive-machine-learning/CapyMOA`), and MOA (`Waikato/moa`) if they prefer it there.
-Checked on 2026-11-21: no existing issue in either tracker mentions this.
+Filed as [adaptive-machine-learning/CapyMOA#491](https://github.com/adaptive-machine-learning/CapyMOA/issues/491). The text below is the draft; the filed version is slightly longer.
+Checked on 2026-11-21 before filing: no existing issue in the CapyMOA or MOA trackers mentioned this.
 
 ---
 

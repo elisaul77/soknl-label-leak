@@ -114,7 +114,7 @@ The full 29-stream study is in [`study/`](study/); see [`study/README.md`](study
 
 ## Suggested fix
 
-Remove the evaluator update from `getVotesForInstance` and rely on the one already in `trainOnInstanceImpl`, choosing *k* from errors accumulated up to the previous instance. A draft of the maintainer report is in [`ISSUE_DRAFT.md`](ISSUE_DRAFT.md).
+Remove the evaluator update from `getVotesForInstance` and rely on the one already in `trainOnInstanceImpl`, choosing *k* from errors accumulated up to the previous instance. Reported to the maintainers as [CapyMOA #491](https://github.com/adaptive-machine-learning/CapyMOA/issues/491) on 2026-11-21 (text in [`ISSUE_DRAFT.md`](ISSUE_DRAFT.md)).
 
 ## Method
 
@@ -139,7 +139,7 @@ Remove the evaluator update from `getVotesForInstance` and rely on the one alrea
 
 ```text
 ├── README.md               this page
-├── ISSUE_DRAFT.md          draft report for the maintainers
+├── ISSUE_DRAFT.md          report sent to the maintainers
 ├── reproduce/              dataset-free minimal reproduction
 ├── results/per_stream.csv  one row per stream
 ├── assets/                 figure
