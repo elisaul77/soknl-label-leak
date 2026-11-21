@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](docs/banner.png)
+
 # SOKNL reads the answer before it answers
 
 **A measured label leak in the Self-Optimising K-Nearest Leaves regressor (MOA / CapyMOA)**
