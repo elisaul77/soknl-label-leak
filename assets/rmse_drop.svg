@@ -2,89 +2,89 @@
 <text x="16" y="26" font-size="16" font-weight="600" fill="#6b7280">How much reading the label lowers SOKNL's measured RMSE</text>
 <text x="16" y="46" font-size="12" fill="#9ca3af">29 streams, mean of 5 seeds, CapyMOA 0.11.0. Positive in all 145 stream-seed pairs.</text>
 <text x="240" y="77" font-size="12" text-anchor="end" fill="#6b7280">ALB0331 · 4hr</text>
-<rect x="250" y="65" width="400.0" height="17" rx="3" fill="#2563eb"/>
-<text x="658.0" y="77" font-size="12" fill="#6b7280">1.55 %</text>
+<rect x="250" y="65" width="330.0" height="17" rx="3" fill="#2563eb"/>
+<text x="588.0" y="77" font-size="12" fill="#6b7280">1.55 %</text>
 <text x="240" y="103" font-size="12" text-anchor="end" fill="#6b7280">STK0331 · 4hr</text>
-<rect x="250" y="91" width="309.4" height="17" rx="3" fill="#2563eb"/>
-<text x="567.4" y="103" font-size="12" fill="#6b7280">1.20 %</text>
+<rect x="250" y="91" width="255.2" height="17" rx="3" fill="#2563eb"/>
+<text x="513.2" y="103" font-size="12" fill="#6b7280">1.20 %</text>
 <text x="240" y="129" font-size="12" text-anchor="end" fill="#6b7280">STK0331 · 0.5hr</text>
-<rect x="250" y="117" width="308.2" height="17" rx="3" fill="#2563eb"/>
-<text x="566.2" y="129" font-size="12" fill="#6b7280">1.19 %</text>
+<rect x="250" y="117" width="254.3" height="17" rx="3" fill="#2563eb"/>
+<text x="512.3" y="129" font-size="12" fill="#6b7280">1.19 %</text>
 <text x="240" y="155" font-size="12" text-anchor="end" fill="#6b7280">HAM0331 · 4hr</text>
-<rect x="250" y="143" width="277.8" height="17" rx="3" fill="#2563eb"/>
-<text x="535.8" y="155" font-size="12" fill="#6b7280">1.08 %</text>
+<rect x="250" y="143" width="229.2" height="17" rx="3" fill="#2563eb"/>
+<text x="487.2" y="155" font-size="12" fill="#6b7280">1.08 %</text>
 <text x="240" y="181" font-size="12" text-anchor="end" fill="#6b7280">ISL0661 · 4hr</text>
-<rect x="250" y="169" width="238.2" height="17" rx="3" fill="#2563eb"/>
-<text x="496.2" y="181" font-size="12" fill="#6b7280">0.92 %</text>
+<rect x="250" y="169" width="196.5" height="17" rx="3" fill="#2563eb"/>
+<text x="454.5" y="181" font-size="12" fill="#6b7280">0.92 %</text>
 <text x="240" y="207" font-size="12" text-anchor="end" fill="#6b7280">ISL0661 · 0.5hr</text>
-<rect x="250" y="195" width="231.5" height="17" rx="3" fill="#2563eb"/>
-<text x="489.5" y="207" font-size="12" fill="#6b7280">0.90 %</text>
+<rect x="250" y="195" width="191.0" height="17" rx="3" fill="#2563eb"/>
+<text x="449.0" y="207" font-size="12" fill="#6b7280">0.90 %</text>
 <text x="240" y="233" font-size="12" text-anchor="end" fill="#6b7280">SDN0331 · 0.5hr</text>
-<rect x="250" y="221" width="205.7" height="17" rx="3" fill="#2563eb"/>
-<text x="463.7" y="233" font-size="12" fill="#6b7280">0.80 %</text>
+<rect x="250" y="221" width="169.7" height="17" rx="3" fill="#2563eb"/>
+<text x="427.7" y="233" font-size="12" fill="#6b7280">0.80 %</text>
 <text x="240" y="259" font-size="12" text-anchor="end" fill="#6b7280">SDN0331 · 4hr</text>
-<rect x="250" y="247" width="205.3" height="17" rx="3" fill="#2563eb"/>
-<text x="463.3" y="259" font-size="12" fill="#6b7280">0.79 %</text>
+<rect x="250" y="247" width="169.3" height="17" rx="3" fill="#2563eb"/>
+<text x="427.3" y="259" font-size="12" fill="#6b7280">0.79 %</text>
 <text x="240" y="285" font-size="12" text-anchor="end" fill="#6b7280">SDN0331 · 6hr</text>
-<rect x="250" y="273" width="199.5" height="17" rx="3" fill="#2563eb"/>
-<text x="457.5" y="285" font-size="12" fill="#6b7280">0.77 %</text>
+<rect x="250" y="273" width="164.6" height="17" rx="3" fill="#2563eb"/>
+<text x="422.6" y="285" font-size="12" fill="#6b7280">0.77 %</text>
 <text x="240" y="311" font-size="12" text-anchor="end" fill="#6b7280">WIL0331 · 4hr</text>
-<rect x="250" y="299" width="167.8" height="17" rx="3" fill="#2563eb"/>
-<text x="425.8" y="311" font-size="12" fill="#6b7280">0.65 %</text>
+<rect x="250" y="299" width="138.4" height="17" rx="3" fill="#2563eb"/>
+<text x="396.4" y="311" font-size="12" fill="#6b7280">0.65 %</text>
 <text x="240" y="337" font-size="12" text-anchor="end" fill="#6b7280">HAM0331 · 0.5hr</text>
-<rect x="250" y="325" width="164.1" height="17" rx="3" fill="#2563eb"/>
-<text x="422.1" y="337" font-size="12" fill="#6b7280">0.64 %</text>
+<rect x="250" y="325" width="135.3" height="17" rx="3" fill="#2563eb"/>
+<text x="393.3" y="337" font-size="12" fill="#6b7280">0.64 %</text>
 <text x="240" y="363" font-size="12" text-anchor="end" fill="#6b7280">ALB0331 · 0.5hr</text>
-<rect x="250" y="351" width="161.8" height="17" rx="3" fill="#2563eb"/>
-<text x="419.8" y="363" font-size="12" fill="#6b7280">0.63 %</text>
+<rect x="250" y="351" width="133.4" height="17" rx="3" fill="#2563eb"/>
+<text x="391.4" y="363" font-size="12" fill="#6b7280">0.63 %</text>
 <text x="240" y="389" font-size="12" text-anchor="end" fill="#6b7280">WIL0331 · 0.5hr</text>
-<rect x="250" y="377" width="138.1" height="17" rx="3" fill="#2563eb"/>
-<text x="396.1" y="389" font-size="12" fill="#6b7280">0.53 %</text>
+<rect x="250" y="377" width="113.9" height="17" rx="3" fill="#2563eb"/>
+<text x="371.9" y="389" font-size="12" fill="#6b7280">0.53 %</text>
 <text x="240" y="415" font-size="12" text-anchor="end" fill="#6b7280">HAM0331 · 6hr</text>
-<rect x="250" y="403" width="120.6" height="17" rx="3" fill="#2563eb"/>
-<text x="378.6" y="415" font-size="12" fill="#6b7280">0.47 %</text>
+<rect x="250" y="403" width="99.5" height="17" rx="3" fill="#2563eb"/>
+<text x="357.5" y="415" font-size="12" fill="#6b7280">0.47 %</text>
 <text x="240" y="441" font-size="12" text-anchor="end" fill="#6b7280">STK0331 · 6hr</text>
-<rect x="250" y="429" width="87.5" height="17" rx="3" fill="#2563eb"/>
-<text x="345.5" y="441" font-size="12" fill="#6b7280">0.34 %</text>
+<rect x="250" y="429" width="72.2" height="17" rx="3" fill="#2563eb"/>
+<text x="330.2" y="441" font-size="12" fill="#6b7280">0.34 %</text>
 <text x="240" y="467" font-size="12" text-anchor="end" fill="#6b7280">abalone</text>
-<rect x="250" y="455" width="80.0" height="17" rx="3" fill="#2563eb"/>
-<text x="338.0" y="467" font-size="12" fill="#6b7280">0.31 %</text>
+<rect x="250" y="455" width="66.0" height="17" rx="3" fill="#2563eb"/>
+<text x="324.0" y="467" font-size="12" fill="#6b7280">0.31 %</text>
 <text x="240" y="493" font-size="12" text-anchor="end" fill="#6b7280">HAM0331 · 24hr</text>
-<rect x="250" y="481" width="61.1" height="17" rx="3" fill="#2563eb"/>
-<text x="319.1" y="493" font-size="12" fill="#6b7280">0.24 %</text>
+<rect x="250" y="481" width="50.4" height="17" rx="3" fill="#2563eb"/>
+<text x="308.4" y="493" font-size="12" fill="#6b7280">0.24 %</text>
 <text x="240" y="519" font-size="12" text-anchor="end" fill="#6b7280">STK0331 · 24hr</text>
-<rect x="250" y="507" width="58.2" height="17" rx="3" fill="#2563eb"/>
-<text x="316.2" y="519" font-size="12" fill="#6b7280">0.23 %</text>
+<rect x="250" y="507" width="48.0" height="17" rx="3" fill="#2563eb"/>
+<text x="306.0" y="519" font-size="12" fill="#6b7280">0.23 %</text>
 <text x="240" y="545" font-size="12" text-anchor="end" fill="#6b7280">ISL0661 · 6hr</text>
-<rect x="250" y="533" width="53.0" height="17" rx="3" fill="#2563eb"/>
-<text x="311.0" y="545" font-size="12" fill="#6b7280">0.21 %</text>
+<rect x="250" y="533" width="43.7" height="17" rx="3" fill="#2563eb"/>
+<text x="301.7" y="545" font-size="12" fill="#6b7280">0.21 %</text>
 <text x="240" y="571" font-size="12" text-anchor="end" fill="#6b7280">House8L</text>
-<rect x="250" y="559" width="43.9" height="17" rx="3" fill="#2563eb"/>
-<text x="301.9" y="571" font-size="12" fill="#6b7280">0.17 %</text>
+<rect x="250" y="559" width="36.2" height="17" rx="3" fill="#2563eb"/>
+<text x="294.2" y="571" font-size="12" fill="#6b7280">0.17 %</text>
 <text x="240" y="597" font-size="12" text-anchor="end" fill="#6b7280">SDN0331 · 24hr</text>
-<rect x="250" y="585" width="37.0" height="17" rx="3" fill="#2563eb"/>
-<text x="295.0" y="597" font-size="12" fill="#6b7280">0.14 %</text>
+<rect x="250" y="585" width="30.5" height="17" rx="3" fill="#2563eb"/>
+<text x="288.5" y="597" font-size="12" fill="#6b7280">0.14 %</text>
 <text x="240" y="623" font-size="12" text-anchor="end" fill="#6b7280">ALB0331 · 6hr</text>
-<rect x="250" y="611" width="36.9" height="17" rx="3" fill="#2563eb"/>
-<text x="294.9" y="623" font-size="12" fill="#6b7280">0.14 %</text>
+<rect x="250" y="611" width="30.4" height="17" rx="3" fill="#2563eb"/>
+<text x="288.4" y="623" font-size="12" fill="#6b7280">0.14 %</text>
 <text x="240" y="649" font-size="12" text-anchor="end" fill="#6b7280">bike</text>
-<rect x="250" y="637" width="33.1" height="17" rx="3" fill="#2563eb"/>
-<text x="291.1" y="649" font-size="12" fill="#6b7280">0.13 %</text>
+<rect x="250" y="637" width="27.3" height="17" rx="3" fill="#2563eb"/>
+<text x="285.3" y="649" font-size="12" fill="#6b7280">0.13 %</text>
 <text x="240" y="675" font-size="12" text-anchor="end" fill="#6b7280">ALB0331 · 24hr</text>
-<rect x="250" y="663" width="21.3" height="17" rx="3" fill="#2563eb"/>
-<text x="279.3" y="675" font-size="12" fill="#6b7280">0.08 %</text>
+<rect x="250" y="663" width="17.6" height="17" rx="3" fill="#2563eb"/>
+<text x="275.6" y="675" font-size="12" fill="#6b7280">0.08 %</text>
 <text x="240" y="701" font-size="12" text-anchor="end" fill="#6b7280">WIL0331 · 6hr</text>
-<rect x="250" y="689" width="10.6" height="17" rx="3" fill="#2563eb"/>
-<text x="268.6" y="701" font-size="12" fill="#6b7280">0.04 %</text>
+<rect x="250" y="689" width="8.7" height="17" rx="3" fill="#2563eb"/>
+<text x="266.7" y="701" font-size="12" fill="#6b7280">0.04 %</text>
 <text x="240" y="727" font-size="12" text-anchor="end" fill="#6b7280">superconductivity</text>
-<rect x="250" y="715" width="8.7" height="17" rx="3" fill="#2563eb"/>
-<text x="266.7" y="727" font-size="12" fill="#6b7280">0.03 %</text>
+<rect x="250" y="715" width="7.2" height="17" rx="3" fill="#2563eb"/>
+<text x="265.2" y="727" font-size="12" fill="#6b7280">0.03 %</text>
 <text x="240" y="753" font-size="12" text-anchor="end" fill="#6b7280">ISL0661 · 24hr</text>
-<rect x="250" y="741" width="7.4" height="17" rx="3" fill="#2563eb"/>
-<text x="265.4" y="753" font-size="12" fill="#6b7280">0.03 %</text>
+<rect x="250" y="741" width="6.1" height="17" rx="3" fill="#2563eb"/>
+<text x="264.1" y="753" font-size="12" fill="#6b7280">0.03 %</text>
 <text x="240" y="779" font-size="12" text-anchor="end" fill="#6b7280">WIL0331 · 24hr</text>
-<rect x="250" y="767" width="5.1" height="17" rx="3" fill="#2563eb"/>
-<text x="263.1" y="779" font-size="12" fill="#6b7280">0.02 %</text>
+<rect x="250" y="767" width="4.2" height="17" rx="3" fill="#2563eb"/>
+<text x="262.2" y="779" font-size="12" fill="#6b7280">0.02 %</text>
 <text x="240" y="805" font-size="12" text-anchor="end" fill="#6b7280">diamonds</text>
 <rect x="250" y="793" width="1.0" height="17" rx="3" fill="#2563eb"/>
 <text x="259.0" y="805" font-size="12" fill="#6b7280">0.00 %</text>
